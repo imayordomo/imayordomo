@@ -3,7 +3,7 @@
 🎓 Estudiante de 3.º de Ingeniería Informática (Software) en la UPV/EHU  
 💡 Interesado en el software  
 🚀 Enfocado en escribir código limpio, mantenible y bien estructurado  
-🧠 Me gusta entender cómo funcionan los sistemas 
+🧠 Me gusta entender cómo funcionan los sistemas, procesos, ... y las cosas en general 
 
 ---
 
