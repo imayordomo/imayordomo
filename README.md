@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Iker%20Mayordomo&fontSize=38&fontColor=e5e7eb&animation=fadeIn" />
-</p>
-
 # 👨‍💻 Sobre mí
 
 🎓 Estudiante de 3.º de Ingeniería Informática (Software) en la UPV/EHU  
